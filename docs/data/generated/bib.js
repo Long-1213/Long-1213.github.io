@@ -151,3 +151,20 @@ const generatedBibEntries9 = {
         "year": "2017"
     }
 };
+const generatedBibEntries10 = {
+    "Beck2016Visual": {
+        "abstract": "The advancements of search engines for traditional text documents have enabled the effective retrieval of massive textual information in a resource-efficient manner. However, such conventional search methodologies often suffer from poor retrieval accuracy especially when documents exhibit unique properties that behoove specialized and deeper semantic extraction. Recently, AlgorithmSeer, a search engine for algorithms has been proposed, that extracts pseudo-codes and shallow textual metadata from scientific publications and treats them as traditional documents so that the conventional search engine methodology could be applied. However, such a system fails to facilitate user search queries that seek to identify algorithm-specific information, such as the datasets on which algorithms operate, the performance of algorithms, and runtime complexity, etc. In this paper, a set of enhancements to the previously proposed algorithm search engine are presented. Specifically, we propose a set of methods to automatically identify and extract algorithmic pseudo-codes and the sentences that convey related algorithmic metadata using a set of machine-learning techniques. In an experiment with over 93,000 text lines, we introduce 60 novel features, comprising content-based, font style based and structure-based feature groups, to extract algorithmic pseudo-codes. Our proposed pseudo-code extraction method achieves 93.32% F1-score, outperforming the state-of-the-art techniques by 28%. Additionally, we propose a method to extract algorithmic-related sentences using deep neural networks and achieve an accuracy of 78.5%, outperforming a Rule-based model and a support vector machine model by 28% and 16%, respectively.",
+        "author": "Iqra Safder , Saeed-Ul Hassan , Anna Visvizi , Thanapon Noraset , Raheel Nawaz , Suppawong Tuarob ",
+        "doi": "https://doi.org/10.1016/j.ipm.2020.102269",
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "keywords": "type:article, visual_analytics, sparklines, information_retrieval, clustering, literature_browser",
+        "number": "01",
+        "publisher": "IEEE",
+        "series": "TVCG",
+        "title": "Document analysis of PDF files: methods, results and implications",
+        "type": "article",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0306457319312610",
+        "volume": "22",
+        "year": "2020"
+    }
+};
