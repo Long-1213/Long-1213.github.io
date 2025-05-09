@@ -4,7 +4,7 @@
         "author": "Leonard Wesley ;Robert Chun ;Robin James",
         "doi": "https://doi.org/10.31979/etd.6jmu-9xdt",
         "journal": "IEEE Transactions on Visualization and Computer Graphics",
-        "keywords": "type:system, visual_analytics, sparklines, information_retrieval, clustering, literature_browser",
+        "keywords": "type:article, visual_analytics, sparklines, information_retrieval, clustering, literature_browser",
         "number": "01",
         "publisher": "IEEE",
         "series": "TVCG",
@@ -13,5 +13,22 @@
         "url": "https://scholarworks.sjsu.edu/etd_projects/531/",
         "volume": "22",
         "year": "2016"
+    }
+};
+﻿const generatedBibEntries = {
+    "Beck2016Visual": {
+        "abstract": "Tables are used to present, list, summarize, and structure important data in documents. In scholarly articles, they are often used to present the relationships among data and high-light a collection of results obtained from experiments and scientific analysis. In digital libraries, extracting this data automatically and understanding the structure and content of tables are very important to many applications. Automatic identification extraction, and search for the contents of tables can be made more precise with the help of metadata. In this paper, we propose a set of medium-independent table metadata to facilitate the table indexing, searching, and exchanging. To extract the contents of tables and their metadata, an automatic table metadata extraction algorithm is designed and tested on PDF documents.",
+        "author": "Ying Liu, Prasenjit Mitra, C. Lee Giles, Kun Bai",
+        "doi": "https://doi.org/10.1145/1141753.1141835",
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "keywords": "type:article, visual_analytics, sparklines, information_retrieval, clustering, literature_browser",
+        "number": "01",
+        "publisher": "IEEE",
+        "series": "TVCG",
+        "title": "Automatic extraction of table metadata from digital documents",
+        "type": "article",
+        "url": "https://dl.acm.org/doi/abs/10.1145/1141753.1141835",
+        "volume": "22",
+        "year": "2006"
     }
 };
