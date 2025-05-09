@@ -1,4 +1,4 @@
-const generatedBibEntries = {
+const generatedBibEntries1 = {
     "Beck2016Visual": {
         "abstract": "To perform document classification algorithmically, documents need to be represented such that it is understandable to the machine learning classifier. The report discusses the different types of feature vectors through which document can be represented and later classified. The project aims at comparing the Binary, Count and TfIdf feature vectors and their impact on document classification. To test how well each of the three mentioned feature vectors perform, we used the 20-newsgroup dataset and converted the documents to all the three feature vectors. For each feature vector representation, we trained the Naïve Bayes classifier and then tested the generated classifier on test documents. In our results, we found that TfIdf performed 4% better than Count vectorizer and 6% better than Binary vectorizer if stop words are removed. If stop words are not removed, then TfIdf performed 6% better than Binary vectorizer and 11% better than Count vectorizer. Also, Count vectorizer performs better than Binary vectorizer, if stop words are removed by 2% but lags behind by 5% if stop words are not removed. Thus, we can conclude that TfIdf should be the preferred vectorizer for document representation and classification.",
         "author": "Leonard Wesley ;Robert Chun ;Robin James",
@@ -15,7 +15,7 @@ const generatedBibEntries = {
         "year": "2016"
     }
 };
-const generatedBibEntries = {
+const generatedBibEntries2 = {
     "Beck2016Visual": {
         "abstract": "Tables are used to present, list, summarize, and structure important data in documents. In scholarly articles, they are often used to present the relationships among data and high-light a collection of results obtained from experiments and scientific analysis. In digital libraries, extracting this data automatically and understanding the structure and content of tables are very important to many applications. Automatic identification extraction, and search for the contents of tables can be made more precise with the help of metadata. In this paper, we propose a set of medium-independent table metadata to facilitate the table indexing, searching, and exchanging. To extract the contents of tables and their metadata, an automatic table metadata extraction algorithm is designed and tested on PDF documents.",
         "author": "Ying Liu, Prasenjit Mitra, C. Lee Giles, Kun Bai",
@@ -32,7 +32,7 @@ const generatedBibEntries = {
         "year": "2006"
     }
 };
-const generatedBibEntries = {
+const generatedBibEntries3 = {
     "Beck2016Visual": {
         "abstract": "Tables are used to present, list, summarize, and structure important data in documents. In scholarly articles, they are often used to present the relationships among data and high-light a collection of results obtained from experiments and scientific analysis. In digital libraries, extracting this data automatically and understanding the structure and content of tables are very important to many applications. Automatic identification extraction, and search for the contents of tables can be made more precise with the help of metadata. In this paper, we propose a set of medium-independent table metadata to facilitate the table indexing, searching, and exchanging. To extract the contents of tables and their metadata, an automatic table metadata extraction algorithm is designed and tested on PDF documents.",
         "author": "YZhi Hong, Logan Ward, Kyle Chard, Ben Blaiszik & Ian Foster ",
@@ -49,7 +49,7 @@ const generatedBibEntries = {
         "year": "2021"
     }
 };
-const generatedBibEntries = {
+const generatedBibEntries4 = {
     "Beck2016Visual": {
         "abstract": "Driven by the innovative improvement of information and communication technologies (ICTs) and their applications into manufacturing industry, the big data era in manufacturing is correspondingly arising, and the developing data mining techniques (DMTs) pave the way for pursuing the aims of smart production with the real-time, dynamic, self-adaptive and precise control. However, lots of factors in the ever-changing environment of manufacturing industry, such as, various of complex production processes, larger scale and uncertainties, more complicated constrains, coupling of operational performance, and so on, make production management face with more and more big challenges. The dynamic inflow of a large number of raw data which is collected from the physical manufacturing sites or generated in various related information systems, caused the heavy information overload problems. Indeed, most of traditional DMTs are not yet sufficient to process such big data for smart production management. Therefore, this paper reviews the development of DMTs in the big data era, and makes discussion on the applications of DMTs in production management, by selecting and analyzing the relevant papers since 2010. In the meantime, we point out limitations and put forward some suggestions about the smartness and further applications of DMTs used in production management.",
         "author": "Cheng Ying, Chen Ken, Sun Hemeng, Zhang Yongping, Tao Fei",
@@ -66,7 +66,7 @@ const generatedBibEntries = {
         "year": "2018"
     }
 };
-const generatedBibEntries = {
+const generatedBibEntries5 = {
     "Beck2016Visual": {
         "abstract": "Feature extraction (FE) is an important step in image retrieval, image processing, data mining and computer vision. FE is the process of extracting relevant information from raw data. However, the problem of extracting appropriate features that can reflect the intrinsic content of a piece of data or dataset as complete as possible is still a challenge for most FE techniques. In this paper, we present a survey of the existing FE techniques used in recent times. In this study, it was observed that the most unique features that can be extracted when using GLDS features on images are contrast, homogeneity, entropy, mean and energy. In addition, it was observed that FE techniques are not mainly application specific but can be applied to several applications.",
         "author": "Ayodeji Olalekan Salau; Shruti Jain",
@@ -83,7 +83,7 @@ const generatedBibEntries = {
         "year": "2019"
     }
 };
-const generatedBibEntries = {
+const generatedBibEntries6 = {
     "Beck2016Visual": {
         "abstract": "The Portable Document Format (PDF) is the most commonly used file format for online scientific publications. The absence of effective means to extract text from these PDF files in a layout-aware manner presents a significant challenge for developers of biomedical text mining or biocuration informatics systems that use published literature as an information source. In this paper we introduce the ‘Layout-Aware PDF Text Extraction’ (LA-PDFText) system to facilitate accurate extraction of text from PDF files of research articles for use in text mining applications.",
         "author": "Cartic Ramakrishnan, Abhishek Patnia, Eduard Hovy & Gully APC Burns",
@@ -100,7 +100,7 @@ const generatedBibEntries = {
         "year": "2012"
     }
 };
-const generatedBibEntries = {
+const generatedBibEntries7 = {
     "Beck2016Visual": {
         "abstract": "This report investigates the challenges and methods associated with parsing PDF documents for use with Large Language Models (LLMs). The variability and complexity of PDF formats pose significant challenges in ensuring accurate data extraction and interpretation. We evaluate several parsing techniques, including rule-based, deep learning-based, and multimodal methods, to determine their effectiveness in handling diverse PDF content. Our study reveals that while multimodal methods generally outperform others, particularly in managing mixed content formats. For PDFs containging complex images a deep learning approach is more effective. This research offers valuable insights into optimizing PDF parsing strategies, balancing accuracy and cost-efficiency, thereby advancing the utility of LLMs in document processing and contributing to improved data management practices in various industries.",
         "author": "Ingemarsson, PerDaniel, Persson",
@@ -117,7 +117,7 @@ const generatedBibEntries = {
         "year": "2024"
     }
 };
-const generatedBibEntries = {
+const generatedBibEntries8 = {
     "Beck2016Visual": {
         "abstract": "Portable Document Format (PDF) has been a popular way to exchange data in documents since Adobe introduced the format in 1993. Its report-like characteristic which preserves and prioritizes graphical visualization was part of the main publishing concerns among several segments including government agencies. In this way, tabular data started to be enclosed within PDF documents and disclosed in government portals. This situation, apart being surprisingly contradictory to data openness, is still found even in the major open data initiatives. It is estimated that roughly 13% of published files in some main open data portals around the world have their data made available in PDF. Thus, there is a need for effective tools capable of extracting tabular content (a main placeholder for data) from PDF to allow its data to be published in more open formats such as the well-known CSV which complies with accessible and machine processable open data principles.This paper aims at providing a structured and comprehensive overview of the research in tabular content extraction specifically from PDF documents as well as to provide an overview of most recent practical results in the literature. The contribution of this work goes beyond theoretical discussions by helping data practitioners to understand to what extent methods and tools regarding tabular content extraction from PDF can benefit the open data initiatives in practical and effective ways.",
         "author": "Andreiwid Sheffer Corrêa, Pär-Ola Zander",
@@ -134,7 +134,7 @@ const generatedBibEntries = {
         "year": "2017"
     }
 };
-const generatedBibEntries = {
+const generatedBibEntries9 = {
     "Beck2016Visual": {
         "abstract": "Nowadays, research in text mining has become one of the widespread fields in analyzing natural language documents. The present study demonstrates a comprehensive overview about text mining and its current research status. As indicated in the literature, there is a limitation in addressing Information Extraction from research articles using Data Mining techniques. The synergy between them helps to discover different interesting text patterns in the retrieved articles. In our study, we collected, and textually analyzed through various text mining techniques, three hundred refereed journal articles in the field of mobile learning from six scientific databases, namely: Springer, Wiley, Science Direct, SAGE, IEEE, and Cambridge. The selection of the collected articles was based on the criteria that all these articles should incorporate mobile learning as the main component in the higher educational context. Experimental results indicated that Springer database represents the main source for research articles in the field of mobile education for the medical domain. Moreover, results where the similarity among topics could not be detected were due to either their interrelations or ambiguity in their meaning. Furthermore, findings showed that there was a booming increase in the number of published articles during the years 2015 through 2016. In addition, other implications and future perspectives are presented in the study.",
         "author": "Said A. Salloum, Mostafa Al-Emran, Azza Abdel Monem & Khaled Shaalan",
